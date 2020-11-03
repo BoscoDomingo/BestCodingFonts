@@ -9,11 +9,13 @@ A repo with the fonts I use for Shells and Programming, most of them with Ligatu
 
 "Consolasligaturizedv2 NF"
 
+FiraCode+RobotoMono NF
+
 "JetBrainsMono NF"
 
 "FiraCode+Cousine NF"
 
-"DejaVuSansCode NF",
+"DejaVuSansCode NF"
 
 ## Great places to find more:
 ### Only ligatures (can apply the Nerd Fonts' Patcher)
