@@ -25,6 +25,7 @@ DejaVuSans: DejaVuSansCode NF
 
 ### Only Icons (can apply Ligaturizer)
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts)
+
 [Nerd Fonts Website](https://www.nerdfonts.com/font-downloads)
 
 
