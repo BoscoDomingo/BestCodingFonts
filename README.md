@@ -1,6 +1,20 @@
 # MyCodingFonts
 A repo with the fonts I use for Shells and Programming, most of them with Ligatures and Powerline support!
 
+## Names (so you can use them in any program or IDE):
+
+"FiraCode+Inconsolata NF"
+
+"Cascadia Code PL"
+
+"Consolasligaturizedv2 NF"
+
+"JetBrainsMono NF"
+
+"FiraCode+Cousine NF"
+
+"DejaVuSansCode NF",
+
 ## Great places to find more:
 ### Only ligatures (can apply the Nerd Fonts' Patcher)
 [Ligaturizer](https://github.com/ChristinWhite/ligaturizer/tree/master/output-fonts) (these don't have PL icons most of the time, but are ligaturised)
