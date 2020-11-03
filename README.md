@@ -3,19 +3,21 @@ A repo with the fonts I use for Shells and Programming, most of them with Ligatu
 
 ## Names (so you can use them in any program or IDE):
 
-FiraCode+Inconsolata NF
+USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could change their names but it would take too long, so here's the workaround instead
 
-Cascadia Code PL
+Inconsolata: 'FiraCode+Inconsolata NF'
 
-Consolasligaturizedv2 NF
+Cascadia Code: Cascadia Code PL
 
-FiraCode+RobotoMono NF
+Consolas: Consolasligaturizedv2 NF
 
-JetBrainsMono NF
+Roboto Mono: 'FiraCode+RobotoMono NF'
 
-FiraCode+Cousine NF
+JetBrains Mono: JetBrainsMono NF
 
-DejaVuSansCode NF
+Cousine: 'FiraCode+Cousine NF'
+
+DejaVuSans: DejaVuSansCode NF
 
 ## Great places to find more:
 ### Only ligatures (can apply the Nerd Fonts' Patcher)
@@ -38,7 +40,7 @@ sudo apt install python3-fontforge -y
 
 git clone --depth 1 https://github.com/betaboon/nerd-fonts-patcher.git
 cd nerd-fonts-patcher
-fontforge -script font-patcher /mnt/c/Users/bosco/Downloads/PATH_TO_LIGATURISED_FONT.ttf.otf -c --careful -w -out /output_folder
+fontforge -script font-patcher /mnt/c/Users/name/PATH_TO_LIGATURISED_FONT.ttf.otf -c --careful -w -out /PATH_TO_OUTPUT_FOLDER
 ```
 
 Docs: https://github.com/betaboon/nerd-fonts-patcher
