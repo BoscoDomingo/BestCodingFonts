@@ -5,19 +5,28 @@ A repo with the fonts I use for Shells and Programming, most of them with Ligatu
 
 USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could change their names but it would take too long, so here's the workaround instead
 
-**Inconsolata**: 'FiraCode+Inconsolata NF'
-
 **Cascadia Code**: Cascadia Code PL
 
+**CodeNewRoman**: CodeNewRoman NF
+
 **Consolas**: Consolasligaturizedv2 NF
-
-**Roboto Mono**: 'FiraCode+RobotoMono NF'
-
-**JetBrains Mono**: JetBrainsMono NF
 
 **Cousine**: 'FiraCode+Cousine NF'
 
 **DejaVuSans**: DejaVuSansCode NF
+
+**Hack**:'FiraCode+Hack NF'
+
+**Hasklig**: Hasklug NF
+
+**Inconsolata**: 'FiraCode+Inconsolata NF'
+
+**JetBrains Mono**: JetBrainsMono NF
+
+**Roboto Mono**: 'FiraCode+RobotoMono NF'
+
+**UbuntuMono**: 'FiraCode+UbuntuMono NF'
+
 
 ## Great places to find more:
 ### Only ligatures (can apply the Nerd Fonts' Patcher)
