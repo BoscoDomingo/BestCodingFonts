@@ -25,7 +25,9 @@ USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could
 
 **Roboto Mono**: 'FiraCode+RobotoMono NF'
 
-**SF Mono**: 'SF Mono Ligatures'
+**SF Mono Ligaturised**: 'SF Mono Ligatures'
+
+**SF Mono Powerline**: 'SF Mono Powerline'
 
 **UbuntuMono**: 'FiraCode+UbuntuMono NF'
 
