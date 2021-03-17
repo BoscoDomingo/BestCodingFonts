@@ -3,7 +3,7 @@ A repo with the fonts I use for Shells and Programming, most of them with Ligatu
 
 ## Names (so you can use them in any program or IDE):
 
-USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could change their names but it would take too long, so here's the workaround instead
+USE QUOTES (`''`) IN FONTS THAT HAVE A `+` IN THEIR NAME IF THEY GIVE YOU ERRORS. I could change their names but it would take too long, so here's the workaround instead
 
 **Cascadia Code**: Cascadia Code PL
 
@@ -15,7 +15,7 @@ USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could
 
 **DejaVuSans**: DejaVuSansCode NF
 
-**Hack**:'FiraCode+Hack NF'
+**Hack**: 'FiraCode+Hack NF'
 
 **Hasklig**: Hasklug NF
 
@@ -25,9 +25,9 @@ USE THE '' IN FONTS THAT HAVE A + IN THEIR NAME IF THEY GIVE YOU ERRORS. I could
 
 **Roboto Mono**: 'FiraCode+RobotoMono NF'
 
-**SF Mono Ligaturised**: 'SF Mono Ligatures'
+**SF Mono Ligaturised**: SF Mono Ligatures
 
-**SF Mono Powerline**: 'SF Mono Powerline'
+**SF Mono Powerline**: SF Mono Powerline
 
 **UbuntuMono**: 'FiraCode+UbuntuMono NF'
 
