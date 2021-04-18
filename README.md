@@ -1,4 +1,4 @@
-# MyCodingFonts
+# BestCodingFonts
 A repo with the fonts I use for Shells and Programming, most of them with Ligatures and Powerline support!
 
 ## Names (so you can use them in any program or IDE):
