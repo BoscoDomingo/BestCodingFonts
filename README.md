@@ -32,7 +32,15 @@ _USE QUOTES (`''`) IN FONTS THAT HAVE A `+` IN THEIR NAME IF THEY GIVE YOU ERROR
 
 **Inconsolata**: 'FiraCode+Inconsolata NF'
 
+**InconsolataGo Nerd Font**: InconsolataGo Nerd Font
+
+**Inconsolata Larger**: 'FiraCode+Inconsolata NF g'
+
 **JetBrains Mono**: JetBrainsMono NF
+
+**Lilex Nerd Font**: Lilex Nerd Font
+
+**NotoMono Nerd Font**: NotoMono Nerd Font
 
 **Roboto Mono**: 'FiraCode+RobotoMono NF'
 
